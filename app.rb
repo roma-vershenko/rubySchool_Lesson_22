@@ -15,6 +15,6 @@ get '/Visit' do
   erb :visit
 end
 
-get '/Contacts' do
+get '/contacts' do
   erb :contacts
 end
